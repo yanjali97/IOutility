@@ -7,8 +7,8 @@ Open the command prompt and change to the directory where IOutility files are sa
 Run the program by giving file name as argument with options.
 
 The Option(s): -l, -C, -W, -n, -a, -h
--I: should display no. of lines present in a file
--: no. of character present in a file
+-l: should display no. of lines present in a file
+-c: no. of character present in a file
 -w: no. of words in a file
 -n: should display only numeric numbers in input file
 -a: should display only alphabets in input file
